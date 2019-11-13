@@ -1,2 +1,0 @@
-# StroyAi
-A storytelling chatbot
