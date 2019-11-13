@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (5.0.0-beta.5)
+  - IBMWatsonNaturalLanguageUnderstandingV1 (2.0.2):
+    - IBMWatsonRestKit (~> 3.0.0)
+  - IBMWatsonRestKit (3.0.1)
+  - ReverseExtension (0.5.0)
+  - SnapKit (4.0.1)
+  - Toolbar (0.5.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0.0-beta.5)
+  - IBMWatsonNaturalLanguageUnderstandingV1 (~> 2.0.2)
+  - ReverseExtension
+  - SnapKit (~> 4.0.0)
+  - Toolbar
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - IBMWatsonNaturalLanguageUnderstandingV1
+    - IBMWatsonRestKit
+    - ReverseExtension
+    - SnapKit
+    - Toolbar
+
+SPEC CHECKSUMS:
+  Alamofire: 9afb08f7f43efcc71c072374e720fcf67521317d
+  IBMWatsonNaturalLanguageUnderstandingV1: b9e13e760681568208b1363b6e1a6b2bdd5af892
+  IBMWatsonRestKit: 73dbe7b437bfefa6105ccee6795c1ada2ef80594
+  ReverseExtension: 21c8dd4e767f93b56fb97d873686d24160f83945
+  SnapKit: 0de968a9fec17499afa29683b05d0c775b6d1c29
+  Toolbar: 240546f9a531266f639b713994b8b9eb7bb3391b
+
+PODFILE CHECKSUM: b6bdc747aa2e9936c743a37e22910c5fa43212ac
+
+COCOAPODS: 1.6.0
